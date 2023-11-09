@@ -65,7 +65,7 @@ img {
   top: 20px;
 }
 
-p:hover {
+.weather-forecast:hover {
   transform: scale(1.5);
 }
 
@@ -86,4 +86,9 @@ p:hover {
   font-size: 50px;
   color: gray;
   padding: 20px 0 0;
+}
+
+.coder-sources {
+  font-family: monospace;
+  font-size: 15px;
 }
